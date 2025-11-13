@@ -17,6 +17,10 @@ const Landing: React.FC = () => {
         title="Large Button"
         styles="text-lg rounded-full bg-red-500 text-white"
       />
+      <Button
+        title="Large Button"
+        styles="text-lg rounded-lg bg-red-500 text-white"
+      />
     </div>
   );
 };
