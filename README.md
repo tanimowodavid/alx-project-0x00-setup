@@ -27,3 +27,5 @@ Next.js v13+
 TypeScript
 Tailwind CSS
 ESLint
+
+---
